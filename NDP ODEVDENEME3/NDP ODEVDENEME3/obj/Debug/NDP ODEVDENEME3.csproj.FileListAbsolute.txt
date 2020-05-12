@@ -1,0 +1,10 @@
+C:\Users\Molner\source\repos\NDP ODEVDENEME3\NDP ODEVDENEME3\bin\Debug\NDP ODEVDENEME3.exe.config
+C:\Users\Molner\source\repos\NDP ODEVDENEME3\NDP ODEVDENEME3\bin\Debug\NDP ODEVDENEME3.exe
+C:\Users\Molner\source\repos\NDP ODEVDENEME3\NDP ODEVDENEME3\bin\Debug\NDP ODEVDENEME3.pdb
+C:\Users\Molner\source\repos\NDP ODEVDENEME3\NDP ODEVDENEME3\obj\Debug\NDP_ODEVDENEME3.Properties.Resources.resources
+C:\Users\Molner\source\repos\NDP ODEVDENEME3\NDP ODEVDENEME3\obj\Debug\NDP ODEVDENEME3.csproj.GenerateResource.cache
+C:\Users\Molner\source\repos\NDP ODEVDENEME3\NDP ODEVDENEME3\obj\Debug\NDP ODEVDENEME3.csproj.CoreCompileInputs.cache
+C:\Users\Molner\source\repos\NDP ODEVDENEME3\NDP ODEVDENEME3\obj\Debug\NDP ODEVDENEME3.exe
+C:\Users\Molner\source\repos\NDP ODEVDENEME3\NDP ODEVDENEME3\obj\Debug\NDP ODEVDENEME3.pdb
+C:\Users\Molner\source\repos\NDP ODEVDENEME3\NDP ODEVDENEME3\obj\Debug\NDP ODEVDENEME3.csprojAssemblyReference.cache
+C:\Users\Molner\source\repos\NDP ODEVDENEME3\NDP ODEVDENEME3\obj\Debug\NDP_ODEVDENEME3.NDPODEV3.resources
